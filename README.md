@@ -26,7 +26,7 @@ The quiz retrieves flag images and country data from the PostgreSQL database.
 2. Install Node.js if not already installed.
 3. Set up a PostgreSQL database and run slq query from `queries.sql`
 4. import the provided csv data from `capitals.csv`, make sure to check **Headers** in option menu while importing csv.
-5. Configure the database connection in the `index.js` application (change database, password with your own).
+5. Configure the database connection in the `index.js` application (change database, password with your own values).
 6. Install node_modules using `npm install`.
 7. Run the `index.js` using `node index.js`.
 8. Open the quizzes in your web browser (localhost:3000) to start playing.
