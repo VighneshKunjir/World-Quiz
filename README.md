@@ -17,9 +17,9 @@ Similar to the World Capital Quiz, users receive instant feedback and can track 
 The quiz retrieves flag images and country data from the PostgreSQL database.
 
 ## TechStack:
-Frontend: HTML, CSS, JavaScript
-Backend: Node.js
-Database: PostgreSQL
+Frontend: HTML, CSS, JavaScript.
+Backend: Node.js.
+Database: PostgreSQL.
 
 ## Setup Instructions:
 1. Clone the repository to your local machine.
