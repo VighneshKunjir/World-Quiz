@@ -1,7 +1,5 @@
 # World Quiz
-This repository contains two interactive quizzes built using HTML, CSS, JavaScript, Node.js, and PostgreSQL. The quizzes are designed to test users' knowledge of world capitals and flags.
-
-## Features:
+This repository contains two interactive quizzes built using HTML, CSS, JavaScript, Node.js, and PostgreSQL. The quizzes are designed to test users' knowledge of world capitals and flags.<br/>
 This repo contains 2 Quizzes
 
 ### World Capital Quiz:
