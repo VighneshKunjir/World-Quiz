@@ -24,8 +24,9 @@ Database: PostgreSQL
 ## Setup Instructions:
 1. Clone the repository to your local machine.
 2. Install Node.js if not already installed.
-3. Set up a PostgreSQL database and run slq query from `queries.sql` import the provided csv data from `capitals.csv`, make sure to check **Headers** in option menu while importing csv.
-4.Configure the database connection in the `index.js` application (change database, password with your own).
-5. Install node_modules using `npm install`.
-6. Run the `index.js` using `node start`.
-7. Open the quizzes in your web browser (localhost:3000) to start playing.
+3. Set up a PostgreSQL database and run slq query from `queries.sql`
+4. import the provided csv data from `capitals.csv`, make sure to check **Headers** in option menu while importing csv.
+5. Configure the database connection in the `index.js` application (change database, password with your own).
+6. Install node_modules using `npm install`.
+7. Run the `index.js` using `node start`.
+8. Open the quizzes in your web browser (localhost:3000) to start playing.
