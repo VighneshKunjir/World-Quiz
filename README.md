@@ -4,24 +4,24 @@ This repository contains two interactive quizzes built using HTML, CSS, JavaScri
 ## Features:
 This repo contains 2 Quizzes
 
-## World Capital Quiz:
+### World Capital Quiz:
 Users are presented with a series of questions asking for the capital cities of various countries.
 After answering, they receive immediate feedback on whether their answer was correct or not.
 Users can track their progress with a score counter.
 The quiz is dynamically generated from data stored in a PostgreSQL database.
 
-## Flag Quiz:
+### Flag Quiz:
 Users are shown images of flags from different countries.
 They need to guess the country associated with each flag.
 Similar to the World Capital Quiz, users receive instant feedback and can track their score.
 The quiz retrieves flag images and country data from the PostgreSQL database.
 
-## TechStack:
+### TechStack:
   Frontend: HTML, CSS, JavaScript.<br/>
   Backend: Node.js.<br/>
   Database: PostgreSQL.<br/>
 
-## Setup Instructions:
+### Setup Instructions:
 1. Clone the repository to your local machine.
 2. Install Node.js if not already installed.
 3. Set up a PostgreSQL database and run slq query from `queries.sql`
